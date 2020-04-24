@@ -1,5 +1,8 @@
 
-
+<p align="center">
+<img src="https://github.com/sillytuktuk2020/Noobspy/blob/master/logo.png" >
+A cloud based remote android managment suite, powered by NodeJS
+</p>
 
 ## Features
 - GPS Logging
